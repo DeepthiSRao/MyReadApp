@@ -14,6 +14,7 @@ My reads app helps to keep track of books.
 3. App also supports a search feature, where users will be able to find books by title or author name.
 
 ### Project live demo link : https://deepthisrao.github.io/MyReadApp/
+![Markdown Logo](https://raw.githubusercontent.com/DeepthiSRao/MyReadApp/master/img/HomePage.png)
 
 ### How to run the project:
 
