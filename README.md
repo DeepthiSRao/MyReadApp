@@ -1,8 +1,9 @@
-My Reads App
+# My Reads App
 
 My reads app helps to keep track of books.
 
-App features,
+### App features,
+
 App allows user to keep track of books on different shelves(category),
 
 Currently Reading
