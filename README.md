@@ -6,14 +6,14 @@ My reads app helps to keep track of books.
 
 1. App allows user to keep track of books on different shelves(category),
 
-* Currently Reading
-* Want To Read
-* Read
+   * Currently Reading
+   * Want To Read
+   * Read
 
-1. Users can move the book across different shelves. 
-1. App also supports a search feature, where users will be able to find books by title or author name.
+2. Users can move the book across different shelves. 
+3. App also supports a search feature, where users will be able to find books by title or author name.
 
-### Project live demo link : https://3000-cdd0fde1-1a96-4aa3-a5b7-c00e7b7d09f7.ws-us02.gitpod.io/
+### Project live demo link : https://deepthisrao.github.io/MyReadApp/
 
 ### How to run the project:
 
