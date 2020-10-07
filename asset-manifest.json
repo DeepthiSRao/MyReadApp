@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DeepthiSRao/MyReadApp.git/static/css/main.309a42f5.chunk.css",
+    "main.js": "/DeepthiSRao/MyReadApp.git/static/js/main.3a8aaa14.chunk.js",
+    "main.js.map": "/DeepthiSRao/MyReadApp.git/static/js/main.3a8aaa14.chunk.js.map",
+    "runtime-main.js": "/DeepthiSRao/MyReadApp.git/static/js/runtime-main.8bb34870.js",
+    "runtime-main.js.map": "/DeepthiSRao/MyReadApp.git/static/js/runtime-main.8bb34870.js.map",
+    "static/js/2.88ab6473.chunk.js": "/DeepthiSRao/MyReadApp.git/static/js/2.88ab6473.chunk.js",
+    "static/js/2.88ab6473.chunk.js.map": "/DeepthiSRao/MyReadApp.git/static/js/2.88ab6473.chunk.js.map",
+    "index.html": "/DeepthiSRao/MyReadApp.git/index.html",
+    "precache-manifest.94e03aac0546a9a2b9cc765c201a8d35.js": "/DeepthiSRao/MyReadApp.git/precache-manifest.94e03aac0546a9a2b9cc765c201a8d35.js",
+    "service-worker.js": "/DeepthiSRao/MyReadApp.git/service-worker.js",
+    "static/css/main.309a42f5.chunk.css.map": "/DeepthiSRao/MyReadApp.git/static/css/main.309a42f5.chunk.css.map",
+    "static/js/2.88ab6473.chunk.js.LICENSE.txt": "/DeepthiSRao/MyReadApp.git/static/js/2.88ab6473.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/DeepthiSRao/MyReadApp.git/static/media/arrow-drop-down.78c6f53b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bb34870.js",
+    "static/js/2.88ab6473.chunk.js",
+    "static/css/main.309a42f5.chunk.css",
+    "static/js/main.3a8aaa14.chunk.js"
+  ]
+}
